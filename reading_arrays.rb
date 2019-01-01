@@ -8,6 +8,7 @@ STUDENT_NAMES = [
 ]
 puts STUDENT_NAMES[0]
 puts STUDENT_NAMES.last
+puts STUDENT_NAMES[0,3]
 def first_student_by_index
  
   # Write a solution that returns the first student in the array student_names
